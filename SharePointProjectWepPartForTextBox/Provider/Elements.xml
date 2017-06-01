@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="Provider" List="113" Url="_catalogs/wp">
+    <File Path="Provider\Provider.webpart" Url="SharePointProjectWepPartForTextBox_Provider.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>

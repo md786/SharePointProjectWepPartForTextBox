@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5a46f1ed-a48a-4941-aea4-08c388b25547" solutionId="5a46f1ed-a48a-4941-aea4-08c388b25547" resetWebServer="false" sharePointProductVersion="15.0" name="SharePointProjectWepPartForTextBox" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="080b7699-2eba-4ce5-b5c9-040205357bf4" />
+  </features>
+</package>
